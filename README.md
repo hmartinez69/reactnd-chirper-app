@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/hmartinez69/reactnd-chirper-app.svg?branch=master)](https://travis-ci.com/hmartinez69/reactnd-chirper-app)
+
 # Chirper Project
 
 This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
