@@ -16,7 +16,7 @@
     "lodash": "^4.17.19",
     "macaddress": "^0.2.9",
     "mem": "^4.0.0",
-    "merge": "^1.2.1",
+    "merge": "^2.1.1",
     "node-fetch": "^2.6.1",
     "node-forge": "^0.10.0",
     "node-notifier": "^8.0.1",
